@@ -1,6 +1,6 @@
 # Classification-with-Decision-Tree
 iPhone related data has been analysis and present predictive model based on decision treefor purchase prediction.
-## Based on gender and salary exiting purcahse trend analysis
+##Based on gender and salary exiting purcahse trend analysis
 ##👨‍💻 Findings 
 Number of male has iphone  66
 Number of female has iphone  77
