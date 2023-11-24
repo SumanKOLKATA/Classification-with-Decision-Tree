@@ -1,5 +1,5 @@
 # Classification-with-Decision-Tree
-##iphone_purchase_prj_8
+## iphone_purchase_prj_8
 iPhone related data has been analysis and present predictive model based on decision treefor purchase prediction.
 ##Based on gender and salary exiting purcahse trend analysis
 ##👨‍💻 Findings 
